@@ -9,6 +9,11 @@
 2. conda install --channel https://conda.anaconda.org/menpo opencv3
 
 # Install all the dependencies using requirements.txt
-3. pip install --ignore-installed requirements.txt
+3. pip install -r requirements.txt
 
 
+# Result Images
+
+![](result/result1.png)
+
+![](result/result2.PNG)
